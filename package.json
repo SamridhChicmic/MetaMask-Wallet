@@ -1,0 +1,12 @@
+{
+  "name": "CryptoWallet",
+  "uuid": "0bf6c9d8-aba2-4406-b0c2-b4b28eb53750",
+  "creator": {
+    "version": "3.7.0"
+  },
+  "dependencies": {
+    "ethers": "^6.3.0",
+    "web3": "^1.9.0",
+    "yarn": "^1.22.19"
+  }
+}
